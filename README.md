@@ -7,9 +7,9 @@ All Information About Me
 My Name Is : Hasan Basri OY \
 My Name Maintainer Some ROM's : hasan6034 \
 I'm From : Turkey \
-I'm 19 Years Old \
+I'm 20 Years Old \
 I'm working <a href="http://worksoft.com.tr/">Worksoft Yazılım</a> \
-My Maintained Devices :Redmi 10 (selene) \
+My Maintained Devices :Redmi 10 (selene) | Xiaomi 13 Ultra\
 Have A Teams ?: Shawk Team
 <hr>
 
